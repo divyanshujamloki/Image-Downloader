@@ -1,0 +1,22 @@
+.body{
+    color: rgb(218, 20, 20);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.head{
+    background-color: blueviolet;
+}
+
+.photo{
+    display: block;
+}
+.photo-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(18rem, 1fr));
+  gap: 20px;
+  justify-items: center;
+}
+
+.photo-card {
+  width: 100%;
+}

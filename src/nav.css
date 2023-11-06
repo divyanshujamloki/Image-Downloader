@@ -1,0 +1,19 @@
+.box{
+    height: 100px;
+}
+#head{
+margin: 10px; 
+font-size: 18px;
+font-size: larger; 
+}
+
+#signup{
+    margin: 10px;
+}
+
+.header{
+    text-align: left;
+    font-family: 'cursive';
+    height: 10px;
+
+}
